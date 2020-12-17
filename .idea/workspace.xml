@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abe0f027-3f50-4a91-bd02-a581a7e8cdd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BaiThiThucHanhCSSBOOTSTRAP.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiThiThucHanh_CSS_BOOTSTRAP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6_layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session7_bootstrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session9_JS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session9_JS_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session9_Js_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btvn_session14.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btvn_session14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demogooglemap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiThiThucHanh_CSS_BOOTSTRAP.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiThiThucHanh_CSS_BOOTSTRAP.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +67,7 @@
       <workItem from="1607586653576" duration="2677000" />
       <workItem from="1607601903987" duration="1040000" />
       <workItem from="1608033584418" duration="2118000" />
-      <workItem from="1608203203451" duration="5656000" />
+      <workItem from="1608203203451" duration="6011000" />
     </task>
     <task id="LOCAL-00001" summary="commit code">
       <created>1603980336333</created>
@@ -103,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603980982243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit code">
+      <created>1608212379271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608212379271</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,10 +112,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="546" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1607586959768" />
-    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1604032669436">
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1608212377656">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1604032669436" />
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608212377656" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1603975650778">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -150,10 +144,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606997951779" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1603980985778">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1608212383548">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603980985778" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608212383548" />
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608042053082">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
