@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abe0f027-3f50-4a91-bd02-a581a7e8cdd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiThiThucHanhCSSBOOTSTRAP.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiThiThucHanh_CSS_BOOTSTRAP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7_bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session9_JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session9_JS_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session9_Js_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btvn_session14.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btvn_session14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demogooglemap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Sass File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -21,6 +35,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jYJmFfptcX2GrlXjrF53sjMll1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,13 +44,27 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Libs/fontawesome-free-5.15.1-web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\T2010E\Website_WS\Libs\Bootstrap3.4.1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\T2010E\Website_WS\Libs\fontawesome-free-5.15.1-web" />
+      <recent name="D:\T2010E\Website_WS\Libs" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,6 +76,11 @@
       <updated>1603975249049</updated>
       <workItem from="1603975250073" duration="5424000" />
       <workItem from="1604030360992" duration="2226000" />
+      <workItem from="1607427128326" duration="7115000" />
+      <workItem from="1607586653576" duration="2677000" />
+      <workItem from="1607601903987" duration="1040000" />
+      <workItem from="1608033584418" duration="2118000" />
+      <workItem from="1608203203451" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="commit code">
       <created>1603980336333</created>
@@ -80,6 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit code" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="546" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607586959768">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="546" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1607586959768" />
     <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1604032669436">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -88,13 +126,37 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1603975650778" />
-    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1604030448791">
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1606997941339">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604030448791" />
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606997941339" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1608208177461">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1608208177461" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1608208177461">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1608208177461" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1608208177460">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1608208177460" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1608208177461">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1608208177461" />
+    <state x="301" y="74" key="SettingsEditor" timestamp="1606997951779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606997951779" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1603980985778">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603980985778" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608042053082">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1608042053082" />
   </component>
 </project>
