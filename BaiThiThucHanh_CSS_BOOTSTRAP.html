@@ -9,12 +9,14 @@
 </head>
 
 
-<body>
+<div>
 <div class="container">
     <section id="content">
         <form action="">
+
             <h1>MATRIMONIAL SURVEY</h1>
             <h2>Personer details</h2>
+            <div class="col-md-12 col-sm-4 col-xs-6">
             <div class="form-group">
                 <label>Name</label>
                 <input class="ip-text" name="Name" required type="text" placeholder="Name"/>
@@ -37,7 +39,7 @@
             <div class="form-group">
                 <label>Gender</label>
                 <label><input type="radio" name="gender" value="male"/> Male</label>
-                <label><input type="radio" checked name="gender" value="female"/> Female</label>
+                <label><input type="radio" name="gender" value="female"/> Female</label>
 
 
             </div>
@@ -49,33 +51,68 @@
 
                     <div class="form-group">
                         <label>Qualification</label>
-                        <label><input type="checkbox" checked name="BCA" value="BCA"/>BCA</label>
-                        <label><input type="checkbox" checked name="BA" value="BCA"/>BA</label>
-                        <label><input type="checkbox" checked name="BSC" value="BCA"/>BSC</label>
+                        <label><input type="checkbox"  name="BCA" value="BCA"/>BCA</label>
+                        <label><input type="checkbox"  name="BA" value="BCA"/>BA</label>
+                        <label><input type="checkbox"  name="BSC" value="BCA"/>BSC</label>
                     </div>
-
+            </div>
+            <div class="form-group">
             <button>Continues</button>
             <button>Reset</button>
+            </div>
+            <br>
+            <br>
+
 
         </form>
 
+        <div class="container">
+        <h2>MATRIMONIAL SURVER</h2>
+        <label>Survey Question</label>
+            <div class="form-group">
+                <label>How often you are surfing this site?</label>
+                <label><input type="radio" name="often" value="daily"/>Daily</label>
+                <label><input type="radio" name="often" value="weekly"/>Weekly</label>
+                <label><input type="radio" name="often" value="Monthly"/>Monthly</label>
+            </div>
 
-        <h2>MATRIMONLAL SURVER</h2>
-        <label>How often you are sufing this site</label>
-        <label><input type="checkbox" checked name="Daily" value="BCA"/>BCA</label>
-        <label><input type="checkbox" checked name="Weekly" value="BCA"/>BA</label>
-        <label><input type="checkbox" checked name="Monthly" value="BCA"/>BSC</label>
-        <br>
-        Which matrinonial site you visit mosly:<input type="text"> <br>
-        <label>Where you use Internet</label>
-        <label><input type="checkbox" checked name="Home" value="Home"/>Home</label>
-        <label><input type="checkbox" checked name="Offiice" value="Offiice"/>Offiice</label>
-        <label><input type="checkbox" checked name="Cyber cafe" value="Cyber cafe"/>Cyber cafe</label>
-        <br>
-        <label>Are you feel sevicer </label>
-        <label><input type="checkbox" checked name="Home" value="Home"/>Home</label>
-        <label><input type="checkbox" checked name="Offiice" value="Offiice"/>Offiice</label>
-        <label><input type="checkbox" checked name="Cyber cafe" value="Cyber cafe"/>Cyber cafe</label>
+            <div class="form-group">
+                <label>Which matrimonial site you visit mostly?</label>
+                <input class="ip-text" name="Name" required type="text"/>
+            </div>
+            <div class="form-group">
+                <label>Where you use internet?</label>
+                <label><input type="radio" name="where" value="Home"/>Home</label>
+                <label><input type="radio" name="where" value="Office"/>Office</label>
+                <label><input type="radio" name="where" value="cybercafe"/>Cyber cafe</label>
+            </div>
+            <div class="form-group">
+                <label>Are you feel services provided by us?</label>
+                <label><input type="radio" name="feel" value="Fair"/>Fair</label>
+                <label><input type="radio" name="feel" value="Good"/>Good</label>
+                <label><input type="radio" name="feel" value="Verygood"/>Very good</label>
+                <label><input type="radio" name="feel" value="Excellent"/>Excellent</label>
+            </div>
+            <div class="form-group">
+                <label>Which type of member you are?</label>
+                <label><input type="radio" name="membertype" value="Free"/>Free</label>
+                <label><input type="radio" name="membertype" value="Premium"/>Premium</label>
+                <label><input type="radio" name="membertype" value="Gold"/>Gold</label>
+            </div>
+            <div class="form-group">
+            <label>If you are a free member, would like to take paid service?</label>
+            <label><input type="radio" name="freemember" value="Yes"/>Yes</label>
+            <label><input type="radio" name="freemember" value="No"/>No</label>
+            <label><input type="radio" name="freemember" value="Iwillthink"/>I'll think</label>
+        </div>
+            <div class="form-group">
+                <label>Rate this website.?</label>
+                <label><input type="radio" name="rate" value="below5"/>Below 5</label>
+                <label><input type="radio" name="rate" value="5to10"/>5 to 10</label>
+                <label><input type="radio" name="rate" value="morethan10"/>More than 10</label>
+            </div>
+
+
 
 
 
@@ -85,7 +122,7 @@
     </section>
 </div><!-- container -->
 
-
+</div>
 
 
 

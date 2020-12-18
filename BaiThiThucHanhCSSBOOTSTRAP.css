@@ -1,11 +1,13 @@
 .container{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
     background-color: gainsboro;
 }
 .container h1{
     color: red;
 }
-.content{
-    border-color: #3c3c3c 1px ;
+
+}
+.container h2{
+    color: red;
 }
