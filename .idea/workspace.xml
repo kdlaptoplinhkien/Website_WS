@@ -70,7 +70,7 @@
       <workItem from="1607601903987" duration="1040000" />
       <workItem from="1608033584418" duration="2118000" />
       <workItem from="1608203203451" duration="6222000" />
-      <workItem from="1608261360358" duration="3693000" />
+      <workItem from="1608261360358" duration="4341000" />
     </task>
     <task id="LOCAL-00001" summary="commit code">
       <created>1603980336333</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608212671792</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit code">
+      <created>1608265291952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608265291952</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,10 +129,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="546" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1607586959768" />
-    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1608212670346">
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1608265288011">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608212670346" />
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608265288011" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1603975650778">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -154,10 +161,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606997951779" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1608212673910">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1608265315851">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608212673910" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608265315851" />
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608042053082">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
